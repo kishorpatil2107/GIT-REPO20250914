@@ -1,3 +1,4 @@
 app.log
 *.log
 /tmp
+secrets.json
